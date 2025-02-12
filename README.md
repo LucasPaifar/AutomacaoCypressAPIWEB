@@ -38,7 +38,7 @@ Este projeto foi desenvolvido para realizar testes automatizados em uma API e em
 ### Requisitos
 
 - **Node.js:**  
-  [Baixar Node.js](https://nodejs.org/download/release/v20.18.2/node-v20.18.2-x64.msi) - **Versão do Node utilizada:** `20.18.2`
+  [Baixar Node.js](https://nodejs.org/dist/v23.7.0/node-v23.7.0-x64.msi) - **Versão do Node utilizada:** `23.7.0`
 
 - **Git:**  
   [Baixar Git](https://git-scm.com/downloads)
@@ -58,7 +58,7 @@ Este projeto foi desenvolvido para realizar testes automatizados em uma API e em
 2. Clique com o botão direito do mouse dentro da pasta e selecione a opção Open Git Bash here.
 3. Adicione o comando a seguir no Git Bash:
    ```bash
-   git clone https://github.com/AnaClaudiaOT/Automacao-API-ServeRest.git
+   git clone (https://github.com/LucasPaifar/AutomacaoCypressAPIWEB.git)
    ```
 4. Abra o VS Code (Visual Studio Code).
 5. No VS Code, clique em **File > Open Folder** e selecione a pasta clonada.
@@ -158,8 +158,14 @@ O projeto implementa testes completos para API, interface web e performance, gar
 
 Resultado dos Testes:
 
-Cypress:
+Cypress: 
+![image](https://github.com/user-attachments/assets/bb161ce3-bd2e-41c1-962f-f63bb588a913)
+
 
 K6:
+![k6](https://github.com/user-attachments/assets/044832d7-fd6e-4eb8-ab35-c8e0d6dd37ed)
+
 
 Grafana:
+![grafana](https://github.com/user-attachments/assets/5e322047-bb55-46d8-b42f-e7b2c51b3172)
+
